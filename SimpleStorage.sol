@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 // 0x9b7a05d9F894F672290eF40a52Cb7a599C322706 >> Contract Address
-pragma solidity ^0.8.19; // stating our version
+pragma solidity ^0.8.19;
 
 contract SimpleStorage {
 
